@@ -2,7 +2,8 @@
 
 A simple, elegant, and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**. This app allows users to check current weather conditions and a 3-day forecast for any location using the `wttr.in` API.
 
-![Weather App Screenshot](screenshot.png) <!-- Add a screenshot in your project folder if you have one -->
+![Weather App Screenshot]![Screenshot (111)](https://github.com/user-attachments/assets/7eb3d9d1-e463-4942-ad29-f93e10165a9b)
+ <!-- Add a screenshot in your project folder if you have one -->
 
 ---
 
